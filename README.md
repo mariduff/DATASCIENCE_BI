@@ -8,3 +8,10 @@ Este repositorio en Github contiene el código, datasets y documentación del Tr
 El archivo "perfil_columnas.csv" (resultado del perfilado de datos) se encuentra en el directorio  
 /TFM/data/processed/ de Google Drive.  
 Por razones de confidencialidad, no se incluye en este repositorio.
+
+# 2º FASE - LIMPIEZA POR CENTRO
+Notebook "Limpieza.ipynb"
+Archivo: TTT_totales_por_centro.xlsx 
+Es un subconjunto del dataset original, con las filas resumen por centro.
+/data/processed/TTT_totales_por_centro.xlsx
+Este dataset se utiliza como base para los análisis y modelos predictivos a nivel de centro de trabajo.
