@@ -11,7 +11,13 @@ Por razones de confidencialidad, no se incluye en este repositorio.
 
 # 2º FASE - LIMPIEZA POR CENTRO
 Notebook "Limpieza.ipynb"
-Archivo: TTT_totales_por_centro.xlsx 
+Archivo creado: TTT_totales_por_centro.xlsx 
 Es un subconjunto del dataset original, con las filas resumen por centro.
 /data/processed/TTT_totales_por_centro.xlsx
 Este dataset se utiliza como base para los análisis y modelos predictivos a nivel de centro de trabajo.
+
+3º FASE - ETL Y ANÁLISIS
+Notebook "ETL_analisis"
+Archivo creado: ETL_analisis_centro_limpio.xlsx
+Se realiza procesos de transformación y nuevos cálculos, se hace análisis temporal de variables.
+
