@@ -16,8 +16,12 @@ Es un subconjunto del dataset original, con las filas resumen por centro.
 /data/processed/TTT_totales_por_centro.xlsx
 Este dataset se utiliza como base para los análisis y modelos predictivos a nivel de centro de trabajo.
 
-3º FASE - ETL Y ANÁLISIS
+# 3º FASE - ETL Y ANÁLISIS
 Notebook "ETL_analisis"
 Archivo creado: ETL_analisis_centro_limpio.xlsx
 Se realiza procesos de transformación y nuevos cálculos, se hace análisis temporal de variables.
 
+# 4º FASE - Entrenamiento y predicción
+Notebook "Entrenamiento_predicción.ypinb
+Archivo creado con 6 meses de predicción futura para el cuadro de mando en Power BI: predicciones_6meses_por_centro.xlsx y .csv
+Se realiza el proceso de entrenamiento y predicción con varios modelos y se comparan (mejor XGBoost) y después se hace una predicción futuro para 6 meses.
