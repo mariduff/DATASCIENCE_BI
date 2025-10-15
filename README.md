@@ -25,3 +25,7 @@ Se realiza procesos de transformación y nuevos cálculos, se hace análisis tem
 Notebook "Entrenamiento_predicción.ypinb
 Archivo creado con 6 meses de predicción futura para el cuadro de mando en Power BI: predicciones_6meses_por_centro.xlsx y .csv
 Se realiza el proceso de entrenamiento y predicción con varios modelos y se comparan (mejor XGBoost) y después se hace una predicción futuro para 6 meses.
+
+# FASE PREDICCIÓN EN R
+Archivo de R: PrediccionARIMA.R
+Excel con predicción sacado de R con función ARIMA: Predicciones_ARIMA_Centros
