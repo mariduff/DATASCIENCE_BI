@@ -30,10 +30,8 @@ Se realiza el proceso de entrenamiento y predicción con varios modelos y se com
 Archivo de R: PrediccionARIMA.R
 Excel con predicción sacado de R con función ARIMA: Predicciones_ARIMA_Centros
 
-# LIMPIEZA POR PUESTO Y CLUSTERING
-Google Colab: ETL_Clustering.ipynb
-En este archivo se realiza la limpieza del dataset TTT por puesto de trabajo para quedarnos con los puestos más importantes y que más se repiten, se realiza una clusterización sobre ellos. 
-El archivo que sacamos limpio de aquí (sin clustering) nos sirve para la predicción posterior (en R)
+# PREDICCIÓN POR PUESTO
+Google Colab: Predicción_puesto.ipynb
 
 # FASE PREDICCIÓN EN R - POR PUESTO
 Se vuelve a publicar la carpeta de R entera, esta vez con los archivos de antes más los archivos de la predicción por puesto.
